@@ -14,7 +14,7 @@ A Calibration Framework using the <br><strong><span style="font-size: large">A</
 
 **ATOM** is a set of calibration tools for multi-sensor, multi-modal, robotic systems, based on the optimization of atomic transformations as provided by a [ROS](https://www.ros.org/) based robot description. Moreover, **ATOM** provides several scripts to facilitate all the steps of a calibration procedure.
 
-This is the mirror repository at IEETA, to details go to:
+This is the mirror repository at IEETA. Go to:
 
 https://github.com/lardemua/atom
 
